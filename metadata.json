@@ -1,0 +1,5 @@
+{
+  "name": "ScripttoStoryboardAI",
+  "description": "An intelligent application that transforms raw scripts into detailed, time-coded scene breakdowns complete with stock footage suggestions, visual tones, and searchable keywords using Gemini.",
+  "requestFramePermissions": []
+}
